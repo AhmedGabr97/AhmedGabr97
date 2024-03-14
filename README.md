@@ -23,8 +23,8 @@
     height: 120px;
   }
   .tool img {
-    max-width: 80%;
-    max-height: 80%;
+    max-width: 80px;
+    max-height: 80px;
   }
 </style>
 
