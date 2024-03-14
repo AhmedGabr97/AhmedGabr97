@@ -22,7 +22,7 @@
     width: 120px;
     height: 120px;
   }
-  .tool img {
+  .tool a img {
     max-width: 70px;
     max-height: 70px;
   }
