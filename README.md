@@ -22,7 +22,7 @@
     width: 120px;
     height: 120px;
   }
-  .tool img {
+  img {
     width: 50px;
     height:50px;
   }
