@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Ahmed Gabr</h1>
 <h3 align="left">A passionate Full-Stack developer</h3>
 
-- 🔭 I’m currently working on [Appy Innovate](https://appyinnovate.com/)
+- 🔭 I’m currently working in [Appy Innovate](https://appyinnovate.com/)
 
 - 📫 How to reach me **ag.ahmedgabr.2022@gmail.com**
 
