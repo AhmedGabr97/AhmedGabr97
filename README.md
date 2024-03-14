@@ -6,85 +6,35 @@
 
 ## Languages and Tools:
 
-<style>
-  .tools-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-  }
-  .tool {
-    border: 1px solid #ccc;
-    padding: 10px;
-    border-radius: 5px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 120px;
-    height: 120px;
-  }
-  .tool a img {
-    max-width: 70px;
-    max-height: 70px;
-  }
-</style>
-
 ### Design Tools
-<div class="tools-container">
-  <div class="tool">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; width: 120px; height: 120px; display: flex; align-items: center; justify-content: center;">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="max-width: 70px; max-height: 70px;"/>
     </a>
   </div>
-  <div class="tool">
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"/>
-    </a>
-  </div>
-  <div class="tool">
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"/>
-    </a>
-  </div>
+  <!-- Add more design tools similarly -->
 </div>
 
 ### Frontend Development
-<div class="tools-container">
-  <div class="tool">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; width: 120px; height: 120px; display: flex; align-items: center; justify-content: center;">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="max-width: 70px; max-height: 70px;"/>
     </a>
   </div>
-  <div class="tool">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/>
-    </a>
-  </div>
-  <div class="tool">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/>
-    </a>
-  </div>
+  <!-- Add more frontend development tools similarly -->
 </div>
 
 ### Backend Development & Database
-<div class="tools-container">
-  <div class="tool">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; width: 120px; height: 120px; display: flex; align-items: center; justify-content: center;">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="max-width: 70px; max-height: 70px;"/>
     </a>
   </div>
-  <div class="tool">
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"/>
-    </a>
-  </div>
-  <div class="tool">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
-    </a>
-  </div>
+  <!-- Add more backend development tools similarly -->
 </div>
-
 
 ## Connect with me:
 <p align="left">
