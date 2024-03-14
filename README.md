@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ahmed Gabr
 ## A passionate Full-Stack developer
 
-- 🔭 I’m currently working at [Appy Innovate](https://appyinnovate.com/)
+- 🔭 I’m currently working in [Appy Innovate](https://appyinnovate.com/)
 - 📫 How to reach me: ag.ahmedgabr.2022@gmail.com
 
 ## Languages and Tools:
